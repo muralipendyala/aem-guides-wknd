@@ -74,3 +74,15 @@ buildNumber.properties
 ### IntelliJ ###
 .idea/
 *.iml
+core/src/main/java/com/adobe/aem/guides/wknd/core/.DS_Store
+core/src/main/java/com/adobe/aem/guides/wknd/.DS_Store
+core/src/main/java/com/adobe/aem/guides/.DS_Store
+core/src/main/java/com/adobe/aem/.DS_Store
+core/src/main/java/com/adobe/.DS_Store
+core/src/main/java/com/.DS_Store
+core/src/main/java/.DS_Store
+core/src/main/.DS_Store
+core/src/.DS_Store
+core/.DS_Store
+.DS_Store
+.DS_Store
